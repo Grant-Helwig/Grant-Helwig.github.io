@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/home-blog",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 2,
+    "title": "About Me",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Portfolio",
+    "link": "/portfolio-masonry-two-column",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 3.1,
+        "title": "Hackjob Games",
+        "link": "/portfolio-details0",
+        "megaMenu": false,
+        "subMenu": false
+      },
+        
+      {
+        "id": 3.2,
+        "title": "Route Optimization",
+        "link": "/portfolio-details1",
+        "megaMenu": false,
+        "subMenu": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

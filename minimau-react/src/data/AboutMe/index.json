@@ -1,0 +1,41 @@
+{
+  "thumb": "IMG_0021.jpg",
+  "bio": "I'm a Quality Assurance Analyst and Automation Engineer. I also dabble in Game Development! I am always looking to expand my knowledge of test methodologies, and love contributing to projects that I care about. ",
+  "skype": "Grant.Helwig@gmail.com",
+  "availability": false,
+  "languages": [
+    "English, Japanese"
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Java, C#, Python",
+      "percentage": 90
+    },
+    {
+      "id": 2,
+      "title": "C, C++, JavaScript",
+      "percentage": 75
+    },
+    {
+      "id": 3,
+      "title": "Jira, Azure DevOps, GitHub",
+      "percentage": 85
+    },
+    {
+      "id": 4,
+      "title": "Selenium, Appium",
+      "percentage": 90
+    },
+    {
+      "id": 5,
+      "title": "SQL, OQL",
+      "percentage": 80
+    },
+    {
+      "id": 6,
+      "title": "Windows, Unix",
+      "percentage": 95
+    }
+  ]
+}

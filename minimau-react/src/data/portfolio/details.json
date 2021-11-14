@@ -1,0 +1,15 @@
+{
+  "title": "Hackjob Games",
+  "category": "Game Development",
+  "description": "Hackjob Games is a project a friend from College and I started in 2019. Initially we were only making small test projects, but have been slowly ramping up to larger and larger productions as our skills and knowledge have improved. We always have something in the works and our lineup of games will continue to grow!",
+  "previewImages": [
+    "Potato.png",
+    "Grapple.png"
+  ],
+  "meta": {
+    "website": "https://hackjob.games",
+    "services": [
+      "Game Development, Game Design, UX Design"
+    ]
+  }
+}

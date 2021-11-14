@@ -1,0 +1,42 @@
+.Tabs {
+    /* transform-origin: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); */
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.Tabs_Main {
+    display: flex;
+    justify-content: center;
+}
+.Tabs_content {
+    transform-origin: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.main_text {
+    text-align: center;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+@media (max-width:800px){
+    .Tabs_content {
+        overflow:hidden;
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        transform-origin: center left;
+        transform: scale(.7);
+        
+    }
+
+}
