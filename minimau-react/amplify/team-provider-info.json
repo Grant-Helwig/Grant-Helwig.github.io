@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-minimaureact-dev-10208-authRole",
+      "UnauthRoleArn": "arn:aws:iam::482819454296:role/amplify-minimaureact-dev-10208-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::482819454296:role/amplify-minimaureact-dev-10208-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-minimaureact-dev-10208-deployment",
+      "UnauthRoleName": "amplify-minimaureact-dev-10208-unauthRole",
+      "StackName": "amplify-minimaureact-dev-10208",
+      "StackId": "arn:aws:cloudformation:us-west-2:482819454296:stack/amplify-minimaureact-dev-10208/8db52f40-4529-11ec-b941-0abb512a1f57",
+      "AmplifyAppId": "d33xem3q5tbrwv"
+    },
+    "categories": {
+      "auth": {
+        "minimaureact0ea1ec61": {}
+      }
+    }
+  }
+}
