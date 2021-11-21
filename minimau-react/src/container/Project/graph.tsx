@@ -1144,7 +1144,7 @@ export default Ggraph<NetworkProps, CustomNode>(
       {tooltipOpen && tooltipData && tooltipLeft != null && tooltipTop != null && (
             <Tooltip left={tooltipLeft + 10} top={tooltipTop + 10}>
               <div>
-                <strong>name:</strong> {tooltipData.appt!.name!}
+                <strong>Name:</strong> {tooltipData.appt!.name!}
               </div>
               <div>
                 <strong>Revenue: $</strong> { Math.round((tooltipData.appt!.rev! + Number.EPSILON) * 100) / 100}
