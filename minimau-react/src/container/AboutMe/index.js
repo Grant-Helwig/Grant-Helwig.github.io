@@ -21,7 +21,7 @@ const AboutMe = ({type}) => {
                             <p>{aboutData.bio}</p>
                             <ul className="personal-info">
                                 <li><span>Email:</span>{aboutData.skype}</li>
-                                <li><span>Availability:</span>{aboutData.availability ? 'Available' : 'Not Available'}</li>
+                                <li><span>Availability:</span>{aboutData.availability ? 'Available' : 'Please Contact'}</li>
                                 <li>
                                     <span>Language:</span>
                                     {aboutData.languages.map((language, index) => (

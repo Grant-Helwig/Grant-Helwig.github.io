@@ -32,7 +32,7 @@ const ProjectPage = () => {
                 </TabList>
                 <TabPanel class="col-xs-1" align="center">
                 <Hgraph width = {800} height = {700}/> 
-                <text className = {"main_text"}>  This graph uses a customer Heuristic that takes into account how 
+                <text className = {"main_text"}>  This graph uses a custom Heuristic that takes into account how 
                 isolated an appointment is from all other appointments. This helps make a more efficient routing system overall. </text>
                 </TabPanel>
                 <TabPanel class="col-xs-1" align="center">

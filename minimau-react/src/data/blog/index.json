@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Route Optimization Algorithms",
-        "excerpt": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+        "excerpt": "A vehicle routing algorithm study and comparison.",
         "thumb": "project.png",
         "meta": {
           "postDate": "Oct 15, 2019",
